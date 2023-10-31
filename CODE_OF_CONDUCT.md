@@ -5,7 +5,7 @@ Welcome to the Hacktoberfest Virtual Hackathon hosted by GDSC MBU! We are excite
 ## Our Commitment
 
 We are committed to fostering a friendly, respectful, and open community. We aim to create an environment where every participant feels safe and valued, regardless of their background, experience, or identity.
-
+# Another comment added!!!
 ## Expected Behavior
 
 Participants are expected to:
